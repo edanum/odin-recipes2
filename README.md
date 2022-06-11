@@ -1,1 +1,3 @@
-# odin-recipes2
+# odin-recipes
+
+In diesem Projekt werden Rezepte aufgelistet
